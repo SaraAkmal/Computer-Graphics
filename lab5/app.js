@@ -65,7 +65,7 @@ function main() {
   // objects we'll be drawing.
   const buffers = initBuffers(gl);
 
-  const texture = loadTexture(gl, 'firefox-nightly.png');
+  const texture = loadTexture(gl, 'texture.jpg');
 
   var then = 0;
 
